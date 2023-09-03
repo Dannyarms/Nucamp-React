@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+.navbar {
+    background: cyan;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+
+li {
+    text-align: right;
+}
+
+.navbar a{
+    text-align: right;
+    padding: 20px 15px;
+    font-size:x-large;
+    color:darkblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(117, 115, 115)
+}

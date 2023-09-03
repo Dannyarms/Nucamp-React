@@ -1,0 +1,53 @@
+body {
+    background: lavender;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+    font: 50px monaco, monospace;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+table, th, td {
+    width: 70%;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    background-color: lavenderblush;
+    color: black;
+    padding: 1%;
+}
+
+form {
+    text-align: center;
+}
+
+label {
+    display: inline;
+    text-align: center;
+    margin: auto;
+}
+
+.submit-btn {
+    display: block;
+    margin: auto;
+    margin-top:1%
+}
+
+p, address {
+    text-align: center;
+    padding: 1%;
+}
+
+* {
+    text-align: center;
+    margin: auto;
+}
